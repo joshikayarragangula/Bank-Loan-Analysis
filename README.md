@@ -63,22 +63,6 @@ To design an interactive Power BI dashboard that helps banking analysts and exec
 
 ---
 
-## 📊 Report Structure
-
-### 🏠 Login Page  
-> User prompt to access the report securely (optional)
-
-### 📊 Executive Summary  
-> Overall loan metrics with quick KPIs: Total Funded, Total Received, Avg Interest Rate, Good/Bad Loan Split  
-
-### 🏙️ Overview Dashboard  
-> Funded Amounts split by State, Term, Purpose, Employment Length, Home Ownership, and Grade  
-
-### 👤 Loan Details View  
-> Interactive table with Loan ID, Purpose, Installment, Collection Status, Grade, and other key fields  
-
----
-
 ## 💡 Key Insights
 
 - **Good Loans:** 86.2% of loans are classified as good based on repayment behavior  
